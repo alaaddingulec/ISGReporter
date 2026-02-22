@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İSG Raportör Pro</string>
+    <string name="menu_profile">Profilim</string>
+    <string name="menu_site_observation">Saha Gözlem Raporlarım</string>
+    <string name="menu_companies">Firmalarım</string>
+</resources>

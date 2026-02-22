@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">İSG Reporter Pro</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_site_observation">My Site Observation Reports</string>
+    <string name="menu_companies">My Companies</string>
+</resources>
